@@ -4,7 +4,7 @@
 I dette strategispillet er målet å forsvare byen mot en invasjon av rotter ved hjelp av ulike typer katter plassert langs rottens invasjonsrute. Spillet foregår i en todimensjonal verden, ned i kloakken, hvor spillere kan utplassere kattene rundt røret som rottene kryper i.
 
 #### Gameplay 
-![gamePlayGif](src/main/resources/returnOfTheRats.gif)
+![gamePlayGif](returnOfTheRats.gif)
 
 #### Game Start Screen
 <img src="src/main/resources/Spill_Forside.jpg" width="500" alt="Homescreen">
